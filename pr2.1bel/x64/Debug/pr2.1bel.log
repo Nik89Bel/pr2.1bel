@@ -1,0 +1,3 @@
+﻿  pr2.1bel.cpp
+C:\Users\belih\source\repos\2024.2\pr2.1bel\pr2.1bel\pr2.1bel.cpp(10,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  pr2.1bel.vcxproj -> C:\Users\belih\source\repos\2024.2\pr2.1bel\x64\Debug\pr2.1bel.exe
